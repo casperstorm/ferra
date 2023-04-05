@@ -46,7 +46,7 @@
 "ui.text.focus" = { fg = "ferra_coral" }
 "ui.menu" = { fg = "ferra_blush", bg = "ferra_ash" }
 "ui.menu.selected" = { fg = "ferra_coral", bg = "ferra_ash" }
-"ui.selection" = { bg = "ferra_ash" }
+"ui.selection" = { bg = "ferra_umber" }
 "ui.virtual.whitespace" = { fg = "ferra_bark" }
 "ui.virtual.ruler" = { bg = "ferra_ash" }
 "ui.virtual.indent-guide" = { fg = "ferra_ash" }
@@ -68,6 +68,7 @@
 [palette]
 ferra_night = "#2b292d"
 ferra_ash = "#383539"
+ferra_umber = "#4d424b"
 ferra_bark = "#6F5D63"
 ferra_mist = "#D1D1E0"
 ferra_sage = "#B1B695"
