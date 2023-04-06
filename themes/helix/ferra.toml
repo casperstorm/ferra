@@ -50,6 +50,7 @@
 "ui.virtual.whitespace" = { fg = "ferra_bark" }
 "ui.virtual.ruler" = { bg = "ferra_ash" }
 "ui.virtual.indent-guide" = { fg = "ferra_ash" }
+"ui.virtual.inlay-hint" = { fg = "ferra_bark", bg = "ferra_night" }
 
 "diff.plus" = { fg = "ferra_sage" }
 "diff.delta" = { fg = "ferra_blush" }
