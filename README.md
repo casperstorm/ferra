@@ -74,6 +74,7 @@ Ferra is a visually appealing theme that is inspired by the vibrant colors of [K
 
 # Ports
 - [Helix](https://github.com/casperstorm/ferra/tree/main/ports/helix)
+- [WezTerm](https://github.com/casperstorm/ferra/tree/main/ports/wezterm)
 
 # License
 Ferra is released under the [MIT License](https://github.com/casperstorm/ferra/raw/main/LICENSE.md).
