@@ -77,6 +77,7 @@ Ferra is a visually appealing theme that is inspired by the vibrant colors of [K
 - [WezTerm](https://github.com/casperstorm/ferra/tree/main/ports/wezterm)
 - [Cryptowatch](https://github.com/casperstorm/ferra/tree/main/ports/cryptowatch)
 - [Alacritty](./ports/alacritty)
+- [Firefox](./ports/firefox)
 
 # License
 Ferra is released under the [MIT License](https://github.com/casperstorm/ferra/raw/main/LICENSE.md).
