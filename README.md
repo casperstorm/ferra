@@ -73,11 +73,12 @@ Ferra is a visually appealing theme that is inspired by the vibrant colors of [K
 </details>
 
 # Ports
+- [Alacritty](./ports/alacritty)
+- [Cryptowatch](https://github.com/casperstorm/ferra/tree/main/ports/cryptowatch)
+- [Firefox](./ports/firefox)
+- [Ghostty](./ports/ghostty)
 - [Helix](https://github.com/casperstorm/ferra/tree/main/ports/helix)
 - [WezTerm](https://github.com/casperstorm/ferra/tree/main/ports/wezterm)
-- [Cryptowatch](https://github.com/casperstorm/ferra/tree/main/ports/cryptowatch)
-- [Alacritty](./ports/alacritty)
-- [Firefox](./ports/firefox)
 - [Zed](./ports/zed)
 
 # License

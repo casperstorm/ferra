@@ -1,0 +1,26 @@
+# Normal
+palette = 0=#1f1e20
+palette = 1=#c05862
+palette = 2=#b1b695
+palette = 3=#f5d76e
+palette = 4=#ffa07a
+palette = 5=#f6b6c9
+palette = 6=#bfbfcf
+palette = 7=#f5f5f5
+
+# Broght
+palette = 8=#2b292d
+palette = 9=#e06b75
+palette = 10=#9f9f7c
+palette = 11=#fff27a
+palette = 12=#e88c6f
+palette = 13=#ffb9cc
+palette = 14=#d1d1e0
+palette = 15=#ffffff
+
+# Static
+background = 2b292d
+foreground = fecdb2
+cursor-color = fecdb2
+selection-background = 4d424b
+selection-foreground = fecdb2
