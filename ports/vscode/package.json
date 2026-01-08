@@ -1,0 +1,25 @@
+{
+  "name": "ferra-color-theme",
+  "displayName": "Ferra Color Theme",
+  "description": "Ferra color theme, ported to VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/casperstorm/ferra"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ferra Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ferra-color-theme.json"
+      }
+    ]
+  }
+}
