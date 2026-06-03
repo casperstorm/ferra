@@ -82,6 +82,7 @@ Ferra is a visually appealing theme that is inspired by the vibrant colors of [K
 - [WezTerm](https://github.com/casperstorm/ferra/tree/main/ports/wezterm)
 - [Windows Terminal](./ports/windows%20terminal/ferra%20scheme%20adding.md)
 - [Zed](./ports/zed)
+- [Neovim](https://github.com/gloridifice/ferra.nvim)
 
 # License
 Ferra is released under the [MIT License](https://github.com/casperstorm/ferra/raw/main/LICENSE.md).
