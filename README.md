@@ -80,6 +80,7 @@ Ferra is a visually appealing theme that is inspired by the vibrant colors of [K
 - [Helix](https://github.com/casperstorm/ferra/tree/main/ports/helix)
 - [VSCode](https://github.com/neptotech/redocs-ferra-theme)
 - [WezTerm](https://github.com/casperstorm/ferra/tree/main/ports/wezterm)
+- [Zellij](./ports/zellij)
 - [Windows Terminal](./ports/windows%20terminal/ferra%20scheme%20adding.md)
 - [Zed](./ports/zed)
 
