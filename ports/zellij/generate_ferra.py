@@ -173,12 +173,12 @@ ferra_theme = Theme(
         emphasis_3=bark,
     ),
     ribbon_unselected=ColorPattern(
-        base=black,
-        background=bark,
-        emphasis_0=ember,
-        emphasis_1=mist,
-        emphasis_2=bark,
-        emphasis_3=rose,
+        base=bark,
+        background=night,
+        emphasis_0=coral,
+        emphasis_1=night,
+        emphasis_2=night,
+        emphasis_3=night,
     ),
     table_title=ColorPattern(
         base=coral,

@@ -25,12 +25,12 @@ themes {
             emphasis_3 111 93 99
         }
         ribbon_unselected {
-            base 0 0 0
-            background 111 93 99
-            emphasis_0 224 107 117
-            emphasis_1 209 209 224
-            emphasis_2 111 93 99
-            emphasis_3 246 182 201
+            base 111 93 99
+            background 43 41 45
+            emphasis_0 255 160 122
+            emphasis_1 43 41 45
+            emphasis_2 43 41 45
+            emphasis_3 43 41 45
         }
         table_title {
             base 255 160 122
